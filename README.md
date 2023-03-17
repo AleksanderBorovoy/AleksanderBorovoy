@@ -1,4 +1,35 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/AleksanderBorovoy"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Engineer;3%20years%20of%20Rust%20experience;Accurate%20and%20Highly%20secure%20blockchain%20developer;6+%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a></a>
+</p>
+
+<p align="center">
+  <img align="center" src="./pics/Blockchain-Developer.jpg" style = "width: -webkit-fill-available;"/>
+</p>
+
+## Languages & libraries
+
+<table>
+  <tr>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/rust.svg" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+   </tr>
+</table>
 
 <!--
 **AleksanderBorovoy/AleksanderBorovoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
