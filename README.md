@@ -6,6 +6,20 @@
   <img align="center" src="./pics/Blockchain-Developer.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
+<h1 align="center">
+</h1>
+
+<p style="font-size: 20px;">
+Hello, and welcome to my GitHub page! My name is Aleksander, and I'm a <b>FullStack Engineer</b> with over six years of experience in the industry. In addition to my web development expertise, I also have three years of experience in blockchain development. I specialize in using <b>Rust</b> for <b>blockchain development</b> and <b>Solidity</b> for writing <b>smart contracts</b>.<br><br>
+
+Throughout my career, I've had the pleasure of working with a variety of companies, from big government organizations to innovative startups. I pride myself on my ability to write scalable applications and to thoroughly test them before deployment.
+
+I'm passionate about staying up-to-date with the latest technologies and methodologies in the field, and I'm always looking for new and exciting projects to work on.
+
+Thank you for taking the time to visit my GitHub page, and feel free to reach out if you have any questions or would like to work together on a project.
+</p>
+
+<br><br>
 ## Languages & libraries
 
 <table>
