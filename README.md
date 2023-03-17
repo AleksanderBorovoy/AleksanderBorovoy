@@ -20,7 +20,8 @@ Thank you for taking the time to visit my GitHub page, and feel free to reach ou
 </p>
 
 <br>
-## Languages & libraries
+
+## Languages
 
 <table>
   <tr>
