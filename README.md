@@ -46,6 +46,8 @@ Thank you for taking the time to visit my GitHub page, and feel free to reach ou
    </tr>
 </table>
 
+![Visitor Count](https://profile-counter.glitch.me/AleksanderBorovoy/count.svg)
+
 <!--
 **AleksanderBorovoy/AleksanderBorovoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
